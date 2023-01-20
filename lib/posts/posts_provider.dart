@@ -6,13 +6,14 @@ import 'package:http/http.dart' as http;
 import 'post_model.dart';
 
 class PostsProvider extends ChangeNotifier {
-  // /wp/v2/media?parent=<id>
   static const String baseUrl = 'https://demo.webwish.com.ar';
   List<Post> posts = [];
 
   Future<List<Post>> getPosts() async {
-    const String endpoint = '/wp-json/wp/v2/posts';
-    final Uri url = Uri.parse(baseUrl + endpoint);
+    const String slug = "?_embed";
+    const String endpoint = '$baseUrl/wp-json/wp/v2/posts$slug';
+    final endpointUrl = Uri.encodeFull(endpoint);
+    final url = Uri.parse(endpointUrl);
     final response = await http.get(url);
     try {
       if (response.statusCode == 200) {
@@ -20,7 +21,6 @@ class PostsProvider extends ChangeNotifier {
         for (var element in resp) {
           final tempPost = Post.fromJson(element);
           posts.add(tempPost);
-          // https://stackoverflow.com/questions/24994321/wordpress-wp-api-get-images-attached-to-post
         }
         return posts;
       } else {

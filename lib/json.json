@@ -1,2133 +1,103 @@
 [
   {
-    "id": 4558,
-    "date": "2022-12-05T23:46:08",
-    "date_gmt": "2022-12-05T23:46:08",
+    "id": 1086,
+    "date": "2021-08-13T22:34:01",
+    "date_gmt": "2021-08-13T22:34:01",
     "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/?page_id=4558"
+      "rendered": "http:\/\/demo.webwish.com.ar\/?p=1086"
     },
-    "modified": "2022-12-05T23:47:49",
-    "modified_gmt": "2022-12-05T23:47:49",
-    "slug": "faq-nueva",
+    "modified": "2023-01-20T15:47:47",
+    "modified_gmt": "2023-01-20T15:47:47",
+    "slug": "articulo-2",
     "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/faq-nueva\/",
+    "type": "post",
+    "link": "https:\/\/demo.webwish.com.ar\/2021\/08\/13\/articulo-2\/",
     "title": {
-      "rendered": "FAQ Nueva"
+      "rendered": "El 75% de los argentinos teme por el impacto de la econom\u00eda"
     },
     "content": {
-      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"4558\" class=\"elementor elementor-4558\">\n\t\t\t\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-c46e566 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"c46e566\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4dbb6e4\" data-id=\"4dbb6e4\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1863e0f elementor-widget elementor-widget-accordion\" data-id=\"1863e0f\" data-element_type=\"widget\" data-widget_type=\"accordion.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-accordion\" role=\"tablist\">\n\t\t\t\t\t\t\t<div class=\"elementor-accordion-item\">\n\t\t\t\t\t<div id=\"elementor-tab-title-2551\" class=\"elementor-tab-title\" data-tab=\"1\" role=\"tab\" aria-controls=\"elementor-tab-content-2551\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon elementor-accordion-icon-left\" aria-hidden=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-closed\"><i class=\"fas fa-plus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-opened\"><i class=\"fas fa-minus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-accordion-title\" href=\"\">Informaci\u00f3n sobre c\u00f3mo comprar<\/a>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div id=\"elementor-tab-content-2551\" class=\"elementor-tab-content elementor-clearfix\" data-tab=\"1\" role=\"tabpanel\" aria-labelledby=\"elementor-tab-title-2551\"><p><strong>\u00bfC\u00f3mo compro?<\/strong><\/p><p>Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, \u00a1c\u00f3mpralo! Recibir\u00e1s un mail con el detalle y la confirmaci\u00f3n de tu operaci\u00f3n.\u00a0<\/p><p><strong>\u00bfCu\u00e1les son los medios de pago disponibles?<\/strong><\/p><p>Pod\u00e9s abonar en efectivo, d\u00e9bito o cr\u00e9dito a trav\u00e9s de la plataforma de Mercado Pago. En caso que no encuentres el medio de pago que est\u00e1s buscando, envianos un mail a\u00a0<a href=\"mailto:nakedunchba@gmail.com\">nakedunchba@gmail.com<\/a>\u00a0<\/p><p><strong>\u00bfHay cuotas sin inter\u00e9s?<\/strong><\/p><p>No ofrecemos cuotas sin inter\u00e9s, excepto para acciones de promoci\u00f3n espec\u00edficas. Pod\u00e9s abonar en cuotas (con inter\u00e9s) a trav\u00e9s de Mercado Pago.\u00a0<\/p><p><strong>Realic\u00e9 una compra pero no recib\u00ed el mail de confirmaci\u00f3n, \u00bfqu\u00e9 hago?<\/strong><\/p><p>Puede suceder que el mail te haya llegado a tu casilla de correo a \u2018spam\u2019. En caso que no lo encuentres o, efectivamente no te haya llegado, envianos un mail a\u00a0<a href=\"mailto:nakedlunchba@gmail.com\">nakedlunchba@gmail.com<\/a><\/p><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-accordion-item\">\n\t\t\t\t\t<div id=\"elementor-tab-title-2552\" class=\"elementor-tab-title\" data-tab=\"2\" role=\"tab\" aria-controls=\"elementor-tab-content-2552\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon elementor-accordion-icon-left\" aria-hidden=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-closed\"><i class=\"fas fa-plus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-opened\"><i class=\"fas fa-minus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-accordion-title\" href=\"\">Env\u00edos & Cambios<\/a>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div id=\"elementor-tab-content-2552\" class=\"elementor-tab-content elementor-clearfix\" data-tab=\"2\" role=\"tabpanel\" aria-labelledby=\"elementor-tab-title-2552\"><p><strong>\u00bfCu\u00e1l es la zona de cobertura del servicio de env\u00edos de Naked Lunch?<\/strong><\/p><p>Naked Lunch \u00fanicamente cubre las zonas de CABA y Zona Norte en GBA. Las dem\u00e1s compras podr\u00e1n retirarse por nuestro domicilio, personalmente o con tu mensajer\u00eda de preferencia.<\/p><p><strong>\u00bfPuedo pasar a retirarlo yo o enviar mensajer\u00eda?<\/strong><\/p><p>Si, cuando est\u00e9s finalizando la compra eleg\u00ed la opci\u00f3n que prefieras.\u00a0<\/p><p><strong>\u00bfCu\u00e1les son los horarios disponibles para retirar?<\/strong><\/p><p>Una vez que hayamos confirmado que tu pedido est\u00e1 listo pod\u00e9s pasar por Juan Ramirez de Velasco 1201 de Lunes a Viernes de 11 a 18 hs\u00a0<\/p><p><strong>\u00bfAceptan cambios?<\/strong><\/p><p>\u00danicamente aceptamos cambios por productos que fueron mal entregados o en mal estado.<\/p><p><strong>Quiero hacer un cambio, \u00bfc\u00f3mo hago?<\/strong><\/p><p>Env\u00edanos un mail a\u00a0<a href=\"mailto:nakedlunchba@gmail.com\">nakedlunchba@gmail.com<\/a>\u00a0con el asunto \u2018Cambio \u2013 compra #xxxxx\u2019 cont\u00e1ndonos sobre el motivo del cambio. Una vez que lo procesamos, nos pondremos en contacto con vos. El producto deber\u00e1 ser devuelto en nuestra direcci\u00f3n en buenas condiciones y tal cual fue entregado. En su lugar, te entregaremos los productos que solicitaste.<\/p><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-accordion-item\">\n\t\t\t\t\t<div id=\"elementor-tab-title-2553\" class=\"elementor-tab-title\" data-tab=\"3\" role=\"tab\" aria-controls=\"elementor-tab-content-2553\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon elementor-accordion-icon-left\" aria-hidden=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-closed\"><i class=\"fas fa-plus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-opened\"><i class=\"fas fa-minus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-accordion-title\" href=\"\">Devoluci\u00f3n de nuestras botellas retornables<\/a>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div id=\"elementor-tab-content-2553\" class=\"elementor-tab-content elementor-clearfix\" data-tab=\"3\" role=\"tabpanel\" aria-labelledby=\"elementor-tab-title-2553\"><p><strong>\u00bfC\u00f3mo puedo devolver las botellas de vidrio?<\/strong><\/p><p>En Naked Lunch somos responsables con el medio ambiente, si quer\u00e9s devolver las botellas pod\u00e9s hacerlo directamente en nuestro local. Las botellas deben devolverse limpias y con su tapa correspondiente. Te daremos como cr\u00e9dito $50 por cada botella que devuelvas, ese cr\u00e9dito podr\u00e1 ser usado \u00fanicamente en nuestro local en Juan Ramirez de Velasco 1201 al momento de devolver las botellas. El cr\u00e9dito no podr\u00e1 ser usado para compras en nuestra web o por Whatsapp.<\/p><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-accordion-item\">\n\t\t\t\t\t<div id=\"elementor-tab-title-2554\" class=\"elementor-tab-title\" data-tab=\"4\" role=\"tab\" aria-controls=\"elementor-tab-content-2554\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon elementor-accordion-icon-left\" aria-hidden=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-closed\"><i class=\"fas fa-plus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t<span class=\"elementor-accordion-icon-opened\"><i class=\"fas fa-minus\"><\/i><\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-accordion-title\" href=\"\">Planes detox<\/a>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div id=\"elementor-tab-content-2554\" class=\"elementor-tab-content elementor-clearfix\" data-tab=\"4\" role=\"tabpanel\" aria-labelledby=\"elementor-tab-title-2554\"><p><strong>Quiero hacer un detox por primera vez, \u00bfqu\u00e9 es?<\/strong><\/p><p>Nuestro plan detox est\u00e1 dise\u00f1ado para darle un descanso a tu cuerpo, a tu aparato digestivo. Es una forma de incorporar una enorme variedad de nutrientes que no solemos darle a nuestro organismo diariamente para poder reponer vitaminas y minerales super necesarios para recuperar la energ\u00eda, remover toxinas acumuladas en nuestros intestinos y ayudar a nuestros \u00f3rganos de eliminaci\u00f3n como el h\u00edgado y los ri\u00f1ones a trabajar mejor y como corresponde.<\/p><p><strong>\u00bfCualquier persona puede hacer un plan detox?<\/strong><\/p><p>\u00a1Si! Nuestra detox es muy amable con el cuerpo. Si sos menor de edad sugerimos que lo consultes con tu m\u00e9dico antes de realizar la compra.<\/p><p><strong>\u00bfCada cu\u00e1nto recomiendan hacer un plan detox?<\/strong><\/p><p>Depende de tu cuerpo y tu alimentaci\u00f3n, puede ser cada 15 d\u00ecas o una vez por mes.<\/p><p><strong>\u00bfCu\u00e1les son los beneficios de hacer un detox?<\/strong><\/p><p>Elimina toxinas acumuladas, mejora la digesti\u00f3n, repone nutrientes que se transforman en energ\u00eda, menos ansiedad y antojos de alimentos procesados.<\/p><p><strong>\u00bfCu\u00e1les son los s\u00edntomas de desintoxicaci\u00f3n que puedo experimentar durante el consumo del plan?<\/strong><\/p><p>Te puede doler la cabeza ya que el h\u00edgado comienza a desintoxicar profundamente, un poco de inflamaci\u00f3n por las toxinas acumuladas que la detox moviliza, baja energ\u00eda porque tu sistema inmunol\u00f3gico te pide que descanses para poder ocuparse de tu aparato digestivo, \u00a1todo depende del nivel de intoxicaci\u00f3n que presente tu cuerpo!<\/p><p><strong>\u00bfQu\u00e9 pasa si siento hambre durante el consumo del plan?<\/strong><\/p><p>Si sent\u00eds que no pod\u00e9s sostenerlo solo a base de jugos\/sopas, lo que recomendamos es comer fruta o d\u00e1tiles.<\/p><p><strong>\u00bfEn qu\u00e9 orden debo consumir el plan detox?<\/strong><\/p><p>El detalle del orden sugerido de consumo lo encontr\u00e1s en la ficha de producto de cada plan. En instagram pod\u00e9s encontrarlo en destacadas.<\/p><p><strong>\u00bfC\u00f3mo me preparo para hacer el detox? \u00bfC\u00f3mo deber\u00eda alimentarme al terminarlo?<\/strong><\/p><p>Lo ideal es, como m\u00ednimo, la semana anterior intentar comer lo m\u00e1s saludable y a base de plantas posible para evitar s\u00edntomas de desintoxicaci\u00f3n. Al terminarlo, lo mismo, comer muchas verduras crudas y, fruta, toda la que quieras.<\/p><p><strong>\u00bfC\u00f3mo se conservan los jugos\/sopas?<\/strong><\/p><p>Mantener refrigerados en la heladera, no consumirlos pasadas las 72 hs. No recomendamos congelarlos.<\/p><p><strong>\u00bfQu\u00e9 bebidas recomiendan tomar durante el consumo del plan?<\/strong><\/p><p>\u00a1Agua con lim\u00f3n!<\/p><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t",
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. <\/p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"800\" height=\"450\" src=\"https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image.png\" alt=\"\" class=\"wp-image-1148\" srcset=\"https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image.png 800w, https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image-300x169.png 300w, https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image-768x432.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\" \/><\/figure>\n\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. Lorem adipiscing mus vestibulum consequat porta eu ultrices feugiat. Et, faucibus ut amet turpis. Facilisis faucibus semper cras purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. Lorem adipiscing mus vestibulum consequat porta eu ultrices feugiat. Et, faucibus ut amet turpis. Facilisis faucibus semper cras purus.<\/p>\n\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. Lorem adipiscing mus vestibulum consequat porta eu ultrices feugiat. Et, faucibus ut amet turpis. Facilisis faucibus semper cras purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. Lorem adipiscing mus vestibulum consequat porta eu ultrices feugiat. Et, faucibus ut amet turpis. Facilisis faucibus semper cras purus.<\/p>\n",
       "protected": false
     },
     "excerpt": {
-      "rendered": "<p>Informaci\u00f3n sobre c\u00f3mo comprar \u00bfC\u00f3mo compro? Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, \u00a1c\u00f3mpralo! Recibir\u00e1s un mail con &hellip;<\/p>\n<p class=\"read-more\"> <a class=\"\" href=\"https:\/\/nakedlunch.com.ar\/faq-nueva\/\"> <span class=\"screen-reader-text\">FAQ Nueva<\/span> Leer m\u00e1s &raquo;<\/a><\/p>\n",
+      "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id sit eu tellus sed cursus eleifend id porta. Lorem adipiscing mus vestibulum consequat porta eu ultrices feugiat. Et, faucibus ut amet turpis. Facilisis faucibus semper cras purus. [&hellip;]<\/p>\n",
       "protected": false
     },
     "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
+    "featured_media": 1148,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
     "template": "",
+    "format": "standard",
     "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "no-sidebar",
-      "site-content-layout": "page-builder",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "disabled",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
+      "om_disable_all_campaigns": false
     },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>FAQ Nueva - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/faq-nueva\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"FAQ Nueva - Naked Lunch\" \/>\n<meta property=\"og:description\" content=\"Informaci\u00f3n sobre c\u00f3mo comprar \u00bfC\u00f3mo compro? Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, \u00a1c\u00f3mpralo! Recibir\u00e1s un mail con &hellip; FAQ Nueva Leer m\u00e1s &raquo;\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/faq-nueva\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2022-12-05T23:47:49+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/faq-nueva\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/faq-nueva\/\",\"name\":\"FAQ Nueva - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2022-12-05T23:46:08+00:00\",\"dateModified\":\"2022-12-05T23:47:49+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/faq-nueva\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/faq-nueva\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/faq-nueva\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FAQ Nueva\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "FAQ Nueva - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/faq-nueva\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "FAQ Nueva - Naked Lunch",
-      "og_description": "Informaci\u00f3n sobre c\u00f3mo comprar \u00bfC\u00f3mo compro? Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, \u00a1c\u00f3mpralo! Recibir\u00e1s un mail con &hellip; FAQ Nueva Leer m\u00e1s &raquo;",
-      "og_url": "https:\/\/nakedlunch.com.ar\/faq-nueva\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2022-12-05T23:47:49+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/faq-nueva\/",
-            "url": "https:\/\/nakedlunch.com.ar\/faq-nueva\/",
-            "name": "FAQ Nueva - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2022-12-05T23:46:08+00:00",
-            "dateModified": "2022-12-05T23:47:49+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/faq-nueva\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/faq-nueva\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/faq-nueva\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "FAQ Nueva"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
+    "categories": [
+      1
+    ],
+    "tags": [],
     "_links": {
       "self": [
         {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4558"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/posts\/1086"
         }
       ],
       "collection": [
         {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/posts"
         }
       ],
       "about": [
         {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/types\/post"
         }
       ],
       "author": [
         {
           "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/users\/1"
         }
       ],
       "replies": [
         {
           "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=4558"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 6,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4558\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 4564,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4558\/revisions\/4564"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=4558"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 4536,
-    "date": "2022-12-05T23:23:50",
-    "date_gmt": "2022-12-05T23:23:50",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/?page_id=4536"
-    },
-    "modified": "2022-12-05T23:37:38",
-    "modified_gmt": "2022-12-05T23:37:38",
-    "slug": "contact",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/contact\/",
-    "title": {
-      "rendered": "Contact"
-    },
-    "content": {
-      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"4536\" class=\"elementor elementor-4536\">\n\t\t\t\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-ecd43e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"ecd43e3\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-412aec6\" data-id=\"412aec6\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-9e9eb24 elementor-widget elementor-widget-shortcode\" data-id=\"9e9eb24\" data-element_type=\"widget\" data-widget_type=\"shortcode.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-shortcode\"><div role=\"form\" class=\"wpcf7\" id=\"wpcf7-f5-o1\" lang=\"en-US\" dir=\"ltr\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"><\/p> <ul><\/ul><\/div>\n<form action=\"\/wp-json\/wp\/v2\/pages#wpcf7-f5-o1\" method=\"post\" class=\"wpcf7-form init\" novalidate=\"novalidate\" data-status=\"init\">\n<div style=\"display: none;\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"5\" \/>\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"5.6.4\" \/>\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"en_US\" \/>\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f5-o1\" \/>\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" \/>\n<input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" \/>\n<input type=\"hidden\" name=\"_wpcf7_recaptcha_response\" value=\"\" \/>\n<\/div>\n<p><label> Nombre *<br \/>\n    <span class=\"wpcf7-form-control-wrap\" data-name=\"your-name\"><input type=\"text\" name=\"your-name\" value=\"\" size=\"150\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" \/><\/span> <\/label><\/p>\n<p><label> Mail *<br \/>\n    <span class=\"wpcf7-form-control-wrap\" data-name=\"your-email\"><input type=\"email\" name=\"your-email\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" \/><\/span> <\/label><\/p>\n<p><label> Asunto<br \/>\n    <span class=\"wpcf7-form-control-wrap\" data-name=\"your-subject\"><input type=\"text\" name=\"your-subject\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" \/><\/span> <\/label><\/p>\n<p><label> Mensaje<br \/>\n    <span class=\"wpcf7-form-control-wrap\" data-name=\"your-message\"><textarea name=\"your-message\" cols=\"40\" rows=\"10\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\"><\/textarea><\/span> <\/label><\/p>\n\n<p><input type=\"submit\" value=\"Enviar\" class=\"wpcf7-form-control has-spinner wpcf7-submit\" \/><\/p>\n<div class=\"wpcf7-response-output\" aria-hidden=\"true\"><\/div><\/form><\/div><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f8b575\" data-id=\"6f8b575\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-a4004a2 elementor-widget elementor-widget-text-editor\" data-id=\"a4004a2\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\">\n\t\t\t\t<h6>DIRECCI\u00d3N<\/h6><p>Juan Ramirez de Velasco 1201, Villa Crespo, \u00a0CABA.<\/p>\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-d9d52b3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"d9d52b3\" data-element_type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t<\/span>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c78cb28 elementor-widget elementor-widget-text-editor\" data-id=\"c78cb28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\">\n\t\t\t\t<h6>MAIL<\/h6><p><a href=\"mailto:nakedlunchba@gmail.com\">nakedlunchba@gmail.com<\/a><\/p>\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-a4b28d8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"a4b28d8\" data-element_type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t<\/span>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b73a8c6 elementor-widget elementor-widget-text-editor\" data-id=\"b73a8c6\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\">\n\t\t\t\t<h6>INSTAGRAM<\/h6><p><a href=\"http:\/\/instagram.com\/nakedlunch_ba\" target=\"_blank\" rel=\"noopener noreferrer\">@nakedlunch_ba<\/a><\/p>\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>DIRECCI\u00d3N Juan Ramirez de Velasco 1201, Villa Crespo, \u00a0CABA. MAIL nakedlunchba@gmail.com INSTAGRAM @nakedlunch_ba<\/p>\n",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "no-sidebar",
-      "site-content-layout": "page-builder",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "disabled",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Contact - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/contact\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Contact - Naked Lunch\" \/>\n<meta property=\"og:description\" content=\"DIRECCI\u00d3N Juan Ramirez de Velasco 1201, Villa Crespo, \u00a0CABA. MAIL nakedlunchba@gmail.com INSTAGRAM @nakedlunch_ba\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/contact\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2022-12-05T23:37:38+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/contact\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/contact\/\",\"name\":\"Contact - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2022-12-05T23:23:50+00:00\",\"dateModified\":\"2022-12-05T23:37:38+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/contact\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/contact\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/contact\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Contact\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Contact - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/contact\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Contact - Naked Lunch",
-      "og_description": "DIRECCI\u00d3N Juan Ramirez de Velasco 1201, Villa Crespo, \u00a0CABA. MAIL nakedlunchba@gmail.com INSTAGRAM @nakedlunch_ba",
-      "og_url": "https:\/\/nakedlunch.com.ar\/contact\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2022-12-05T23:37:38+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/contact\/",
-            "url": "https:\/\/nakedlunch.com.ar\/contact\/",
-            "name": "Contact - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2022-12-05T23:23:50+00:00",
-            "dateModified": "2022-12-05T23:37:38+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/contact\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/contact\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/contact\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Contact"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4536"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=4536"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 14,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4536\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 4555,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4536\/revisions\/4555"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=4536"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 4522,
-    "date": "2022-12-05T23:07:20",
-    "date_gmt": "2022-12-05T23:07:20",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/?page_id=4522"
-    },
-    "modified": "2022-12-05T23:16:20",
-    "modified_gmt": "2022-12-05T23:16:20",
-    "slug": "about",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/about\/",
-    "title": {
-      "rendered": "Nosotros"
-    },
-    "content": {
-      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"4522\" class=\"elementor elementor-4522\">\n\t\t\t\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-2082a73 elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"2082a73\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-775dbd7\" data-id=\"775dbd7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-879c7b7 elementor-hidden-mobile elementor-widget elementor-widget-image\" data-id=\"879c7b7\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"1024\" height=\"422\" src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-1024x422.jpg\" class=\"attachment-large size-large\" alt=\"\" loading=\"lazy\" srcset=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-1024x422.jpg 1024w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-600x247.jpg 600w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-300x124.jpg 300w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-768x317.jpg 768w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop.jpg 1348w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e58455d elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image\" data-id=\"e58455d\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"595\" height=\"895\" src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-mobile.jpg\" class=\"attachment-large size-large\" alt=\"\" loading=\"lazy\" srcset=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-mobile.jpg 595w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-mobile-199x300.jpg 199w\" sizes=\"(max-width: 595px) 100vw, 595px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "no-sidebar",
-      "site-content-layout": "page-builder",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "disabled",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Nosotros - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/about\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Nosotros - Naked Lunch\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/about\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2022-12-05T23:16:20+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-1024x422.jpg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/about\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/about\/\",\"name\":\"Nosotros - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2022-12-05T23:07:20+00:00\",\"dateModified\":\"2022-12-05T23:16:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/about\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/about\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/about\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Nosotros\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Nosotros - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/about\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Nosotros - Naked Lunch",
-      "og_url": "https:\/\/nakedlunch.com.ar\/about\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2022-12-05T23:16:20+00:00",
-      "og_image": [
-        {
-          "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/10\/Banner-modificado-desktop-1024x422.jpg"
-        }
-      ],
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/about\/",
-            "url": "https:\/\/nakedlunch.com.ar\/about\/",
-            "name": "Nosotros - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2022-12-05T23:07:20+00:00",
-            "dateModified": "2022-12-05T23:16:20+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/about\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/about\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/about\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Nosotros"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4522"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=4522"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 10,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4522\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 4533,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/4522\/revisions\/4533"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=4522"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 554,
-    "date": "2020-09-04T16:09:05",
-    "date_gmt": "2020-09-04T16:09:05",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/?page_id=554"
-    },
-    "modified": "2022-12-05T23:48:45",
-    "modified_gmt": "2022-12-05T23:48:45",
-    "slug": "faq",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/faq\/",
-    "title": {
-      "rendered": "FAQ"
-    },
-    "content": {
-      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"554\" class=\"elementor elementor-554\">\n\t\t\t\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-1aee20db elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"1aee20db\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-33e9326f\" data-id=\"33e9326f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-13263e09 elementor-widget elementor-widget-text-editor\" data-id=\"13263e09\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\">\n\t\t\t\t<p>[vc_row full_height=&#8221;yes&#8221; columns_placement=&#8221;top&#8221;][vc_column][vc_custom_heading text=&#8221;&#8221;][vc_toggle title=&#8221;Informaci\u00f3n sobre c\u00f3mo comprar&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]<strong><span style=\"font-family: helvetica;\">\u00bfC\u00f3mo compro?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, \u00a1c\u00f3mpralo! Recibir\u00e1s un mail con el detalle y la confirmaci\u00f3n de tu operaci\u00f3n.\u00a0<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfCu\u00e1les son los medios de pago disponibles?<\/span><\/strong><\/p><p><span style=\"font-family: helvetica;\"><span style=\"font-weight: 400;\">Pod\u00e9s abonar en efectivo, d\u00e9bito o cr\u00e9dito a trav\u00e9s de la plataforma de Mercado Pago. En caso que no encuentres el medio de pago que est\u00e1s buscando, envianos un mail a <\/span><a href=\"mailto:nakedunchba@gmail.com\"><span style=\"font-weight: 400;\">nakedunchba@gmail.com<\/span><\/a><span style=\"font-weight: 400;\">\u00a0<\/span><\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfHay cuotas sin inter\u00e9s?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">No ofrecemos cuotas sin inter\u00e9s, excepto para acciones de promoci\u00f3n espec\u00edficas. Pod\u00e9s abonar en cuotas (con inter\u00e9s) a trav\u00e9s de Mercado Pago.\u00a0<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">Realic\u00e9 una compra pero no recib\u00ed el mail de confirmaci\u00f3n, \u00bfqu\u00e9 hago?<\/span><\/strong><\/p><p><span style=\"font-family: helvetica;\"><span style=\"font-weight: 400;\">Puede suceder que el mail te haya llegado a tu casilla de correo a \u2018spam\u2019. En caso que no lo encuentres o, efectivamente no te haya llegado, envianos un mail a <\/span><a href=\"mailto:nakedlunchba@gmail.com\"><span style=\"font-weight: 400;\">nakedlunchba@gmail.com<\/span><\/a><\/span>[\/vc_toggle][vc_toggle title=&#8221;Env\u00edos &amp; Cambios&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]<strong><span style=\"font-family: helvetica;\">\u00bfCu\u00e1l es la zona de cobertura del servicio de env\u00edos de Naked Lunch?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Naked Lunch \u00fanicamente cubre las zonas de CABA y Zona Norte en GBA. Las dem\u00e1s compras podr\u00e1n retirarse por nuestro domicilio, personalmente o con tu mensajer\u00eda de preferencia.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfPuedo pasar a retirarlo yo o enviar mensajer\u00eda?<\/span><\/strong><\/p><p><span style=\"font-family: helvetica;\">Si, cuando est\u00e9s finalizando la compra eleg\u00ed la opci\u00f3n que prefieras.\u00a0<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfCu\u00e1les son los horarios disponibles para retirar?<\/span><\/strong><\/p><p><span style=\"font-family: helvetica;\"><span style=\"font-weight: 400;\">Una vez que hayamos confirmado que tu pedido est\u00e1 listo pod\u00e9s pasar por Juan Ramirez de Velasco 1201 de Lunes a Viernes de 11 a 18 hs\u00a0<\/span><\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfAceptan cambios?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">\u00danicamente aceptamos cambios por productos que fueron mal entregados o en mal estado.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">Quiero hacer un cambio, \u00bfc\u00f3mo hago?<\/span><\/strong><\/p><p><span style=\"font-family: helvetica;\"><span style=\"font-weight: 400;\">Env\u00edanos un mail a <\/span><a href=\"mailto:nakedlunchba@gmail.com\"><span style=\"font-weight: 400;\">nakedlunchba@gmail.com<\/span><\/a><span style=\"font-weight: 400;\"> con el asunto \u2018Cambio &#8211; compra #xxxxx\u2019 cont\u00e1ndonos sobre el motivo del cambio. Una vez que lo procesamos, nos pondremos en contacto con vos. El producto deber\u00e1 ser devuelto en nuestra direcci\u00f3n en buenas condiciones y tal cual fue entregado. En su lugar, te entregaremos los productos que solicitaste.<\/span><\/span>[\/vc_toggle][vc_toggle title=&#8221;Devoluci\u00f3n de nuestras botellas retornables&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]<strong><span style=\"font-family: helvetica;\">\u00bfC\u00f3mo puedo devolver las botellas de vidrio?<\/span><\/strong><\/p><p><span style=\"font-family: helvetica;\"><span style=\"font-weight: 400;\">En Naked Lunch somos responsables con el medio ambiente, si quer\u00e9s devolver las botellas pod\u00e9s hacerlo directamente en nuestro local. Las botellas deben devolverse limpias y con su tapa correspondiente. Te daremos como cr\u00e9dito $50 por cada botella que devuelvas, ese cr\u00e9dito podr\u00e1 ser usado \u00fanicamente en nuestro local en Juan Ramirez de Velasco 1201 al momento de devolver las botellas. El cr\u00e9dito no podr\u00e1 ser usado para compras en nuestra web o por Whatsapp<\/span><span style=\"font-weight: 400;\">. <\/span><\/span>[\/vc_toggle][vc_toggle title=&#8221;Planes detox&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]<strong><span style=\"font-family: helvetica;\">Quiero hacer un detox por primera vez, \u00bfqu\u00e9 es?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Nuestro plan detox est\u00e1 dise\u00f1ado para darle un descanso a tu cuerpo, a tu aparato digestivo. Es una forma de incorporar una enorme variedad de nutrientes que no solemos darle a nuestro organismo diariamente para poder reponer vitaminas y minerales super necesarios para recuperar la energ\u00eda, remover toxinas acumuladas en nuestros intestinos y ayudar a nuestros \u00f3rganos de eliminaci\u00f3n como el h\u00edgado y los ri\u00f1ones a trabajar mejor y como corresponde.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfCualquier persona puede hacer un plan detox?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">\u00a1Si! Nuestra detox es muy amable con el cuerpo. Si sos menor de edad sugerimos que lo consultes con tu m\u00e9dico antes de realizar la compra.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfCada cu\u00e1nto recomiendan hacer un plan detox?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Depende de tu cuerpo y tu alimentaci\u00f3n, puede ser cada 15 d\u00ecas o una vez por mes.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfCu\u00e1les son los beneficios de hacer un detox?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Elimina toxinas acumuladas, mejora la digesti\u00f3n, repone nutrientes que se transforman en energ\u00eda, menos ansiedad y antojos de alimentos procesados.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfCu\u00e1les son los s\u00edntomas de desintoxicaci\u00f3n que puedo experimentar durante el consumo del plan?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Te puede doler la cabeza ya que el h\u00edgado comienza a desintoxicar profundamente, un poco de inflamaci\u00f3n por las toxinas acumuladas que la detox moviliza, baja energ\u00eda porque tu sistema inmunol\u00f3gico te pide que descanses para poder ocuparse de tu aparato digestivo, \u00a1todo depende del nivel de intoxicaci\u00f3n que presente tu cuerpo!<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfQu\u00e9 pasa si siento hambre durante el consumo del plan?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Si sent\u00eds que no pod\u00e9s sostenerlo solo a base de jugos\/sopas, lo que recomendamos es comer fruta o d\u00e1tiles.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfEn qu\u00e9 orden debo consumir el plan detox?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">El detalle del orden sugerido de consumo lo encontr\u00e1s en la ficha de producto de cada plan. En instagram pod\u00e9s encontrarlo en destacadas.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfC\u00f3mo me preparo para hacer el detox? \u00bfC\u00f3mo deber\u00eda alimentarme al terminarlo?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Lo ideal es, como m\u00ednimo, la semana anterior intentar comer lo m\u00e1s saludable y a base de plantas posible para evitar s\u00edntomas de desintoxicaci\u00f3n. Al terminarlo, lo mismo, comer muchas verduras crudas y, fruta, toda la que quieras.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfC\u00f3mo se conservan los jugos\/sopas?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">Mantener refrigerados en la heladera, no consumirlos pasadas las 72 hs. No recomendamos congelarlos.<\/span><\/p><p><strong><span style=\"font-family: helvetica;\">\u00bfQu\u00e9 bebidas recomiendan tomar durante el consumo del plan?<\/span><\/strong><\/p><p><span style=\"font-weight: 400; font-family: helvetica;\">\u00a1Agua con lim\u00f3n!<\/span>[\/vc_toggle][\/vc_column][\/vc_row][vc_row][vc_column][\/vc_column][\/vc_row]<\/p>\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>[vc_row full_height=&#8221;yes&#8221; columns_placement=&#8221;top&#8221;][vc_column][vc_custom_heading text=&#8221;&#8221;][vc_toggle title=&#8221;Informaci\u00f3n sobre c\u00f3mo comprar&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]\u00bfC\u00f3mo compro? Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, &hellip;<\/p>\n<p class=\"read-more\"> <a class=\"\" href=\"https:\/\/nakedlunch.com.ar\/faq\/\"> <span class=\"screen-reader-text\">FAQ<\/span> Leer m\u00e1s &raquo;<\/a><\/p>\n",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "default",
-      "site-content-layout": "default",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "default",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>FAQ - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/faq\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"FAQ - Naked Lunch\" \/>\n<meta property=\"og:description\" content=\"[vc_row full_height=&#8221;yes&#8221; columns_placement=&#8221;top&#8221;][vc_column][vc_custom_heading text=&#8221;&#8221;][vc_toggle title=&#8221;Informaci\u00f3n sobre c\u00f3mo comprar&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]\u00bfC\u00f3mo compro? Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, &hellip; FAQ Leer m\u00e1s &raquo;\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/faq\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2022-12-05T23:48:45+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/faq\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/faq\/\",\"name\":\"FAQ - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-09-04T16:09:05+00:00\",\"dateModified\":\"2022-12-05T23:48:45+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/faq\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/faq\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/faq\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FAQ\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "FAQ - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/faq\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "FAQ - Naked Lunch",
-      "og_description": "[vc_row full_height=&#8221;yes&#8221; columns_placement=&#8221;top&#8221;][vc_column][vc_custom_heading text=&#8221;&#8221;][vc_toggle title=&#8221;Informaci\u00f3n sobre c\u00f3mo comprar&#8221; style=&#8221;arrow&#8221; size=&#8221;sm&#8221;]\u00bfC\u00f3mo compro? Ingres\u00e1 a nuestro shop. Eleg\u00ed los productos que m\u00e1s te gusten y agregalos a tu carrito. Una vez que hayas llenado tu carrito con tus elegidos, procede a finalizar tu compra. Carga tus datos personales y los del medio de pago que hayas elegido, &hellip; FAQ Leer m\u00e1s &raquo;",
-      "og_url": "https:\/\/nakedlunch.com.ar\/faq\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2022-12-05T23:48:45+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/faq\/",
-            "url": "https:\/\/nakedlunch.com.ar\/faq\/",
-            "name": "FAQ - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-09-04T16:09:05+00:00",
-            "dateModified": "2022-12-05T23:48:45+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/faq\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/faq\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/faq\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "FAQ"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/554"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=554"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 26,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/554\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 4570,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/554\/revisions\/4570"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=554"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 28,
-    "date": "2020-06-23T15:45:02",
-    "date_gmt": "2020-06-23T15:45:02",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/?page_id=28"
-    },
-    "modified": "2020-06-23T15:45:03",
-    "modified_gmt": "2020-06-23T15:45:03",
-    "slug": "posts",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/posts\/",
-    "title": {
-      "rendered": "Posts"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "default",
-      "site-content-layout": "default",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Posts - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/posts\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Posts - Naked Lunch\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/posts\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2020-06-23T15:45:03+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":[\"WebPage\",\"CollectionPage\"],\"@id\":\"https:\/\/nakedlunch.com.ar\/posts\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/posts\/\",\"name\":\"Posts - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-06-23T15:45:02+00:00\",\"dateModified\":\"2020-06-23T15:45:03+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/posts\/#breadcrumb\"},\"inLanguage\":\"es-AR\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/posts\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Posts\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Posts - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/posts\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Posts - Naked Lunch",
-      "og_url": "https:\/\/nakedlunch.com.ar\/posts\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2020-06-23T15:45:03+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": [
-              "WebPage",
-              "CollectionPage"
-            ],
-            "@id": "https:\/\/nakedlunch.com.ar\/posts\/",
-            "url": "https:\/\/nakedlunch.com.ar\/posts\/",
-            "name": "Posts - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-06-23T15:45:02+00:00",
-            "dateModified": "2020-06-23T15:45:03+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/posts\/#breadcrumb"
-            },
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/posts\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Posts"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/28"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=28"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 1,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/28\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 29,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/28\/revisions\/29"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=28"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 26,
-    "date": "2020-06-23T15:44:39",
-    "date_gmt": "2020-06-23T15:44:39",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/?page_id=26"
-    },
-    "modified": "2022-10-12T12:55:54",
-    "modified_gmt": "2022-10-12T12:55:54",
-    "slug": "home",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/",
-    "title": {
-      "rendered": "Home"
-    },
-    "content": {
-      "rendered": "<div class=\"vce-row-container\"><div class=\"vce-row vce-row--col-gap-0 vce-row-equal-height vce-row-content--top\" data-vce-full-width=\"true\" id=\"el-a63c549a\" data-vce-do-apply=\"all el-a63c549a\"><div class=\"vce-content-background-container\"><\/div><div class=\"vce-row-content\" data-vce-element-content=\"true\"><div class=\"vce-col vce-col--xs-100p vce-col--xs-visible vce-col--xs-last vce-col--xs-first vce-col--sm-100p vce-col--sm-visible vce-col--sm-last vce-col--sm-first vce-col--md-100p vce-col--md-visible vce-col--md-last vce-col--md-first vce-col--lg-100p vce-col--lg-visible vce-col--lg-last vce-col--lg-first vce-col--xl-100p vce-col--xl-visible vce-col--xl-last vce-col--xl-first\" id=\"el-3643b861\"><div class=\"vce-col-inner\" data-vce-do-apply=\"border margin background  el-3643b861\"><div class=\"vce-col-content\" data-vce-element-content=\"true\" data-vce-do-apply=\"padding el-3643b861\"><div class=\"vce-single-image-container vce-single-image--align-left\"><div class=\"vce vce-single-image-wrapper\" id=\"el-a58bf730\" data-vce-do-apply=\"all el-a58bf730\"><figure><div class=\"vce-single-image-figure-inner\" style=\"width: 2560px;\"><a href=\"https:\/\/nakedlunch.com.ar\/shop\/inmunologico-tonico\/\" title=\"\" class=\"vce-single-image-inner vce-single-image--absolute\" style=\"width: 100%; padding-bottom: 41.25%;\"><img decoding=\"async\" class=\"vce-single-image\" src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-WEB-NAKED-LUNCH-scaled.jpeg\" data-img-src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-WEB-NAKED-LUNCH-scaled.jpeg\" data-attachment-id=\"4213\" alt=\"\" title=\"BANNER-PRIMAVERA-WEB-NAKED-LUNCH\"><\/a><\/div><figcaption hidden=\"\"><\/figcaption><\/figure><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"vce-row-container\" data-vce-boxed-width=\"true\"><div class=\"vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--bottom\" id=\"el-8d39ea2a\" data-vce-do-apply=\"all el-8d39ea2a\"><div class=\"vce-row-content\" data-vce-element-content=\"true\"><div class=\"vce-col vce-col--xs-100p vce-col--xs-visible vce-col--xs-last vce-col--xs-first vce-col--sm-100p vce-col--sm-visible vce-col--sm-last vce-col--sm-first vce-col--md-auto vce-col--md-visible vce-col--md-first vce-col--lg-auto vce-col--lg-visible vce-col--lg-first vce-col--xl-auto vce-col--xl-visible vce-col--xl-first\" id=\"el-790c0c04\"><div class=\"vce-col-inner\" data-vce-do-apply=\"border margin background  el-790c0c04\"><div class=\"vce-col-content\" data-vce-element-content=\"true\" data-vce-do-apply=\"padding el-790c0c04\"><div class=\"vce-single-image-container vce-single-image--align-left\"><div class=\"vce vce-single-image-wrapper\" id=\"el-1204e0fa\" data-vce-do-apply=\"all el-1204e0fa\"><figure><div class=\"vce-single-image-figure-inner\" style=\"width: 680px;\"><a href=\"https:\/\/nakedlunch.com.ar\/shop\" title=\"\" class=\"vce-single-image-inner vce-single-image--absolute\" style=\"width: 100%; padding-bottom: 150.588%;\"><img decoding=\"async\" loading=\"lazy\" class=\"vce-single-image\"  width=\"680\" height=\"1024\" srcset=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH-320x481.jpeg 320w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH-480x722.jpeg 480w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH-800x1203.jpeg 800w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH-680x1024.jpeg 680w\" src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH-680x1024.jpeg\" data-img-src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH.jpeg\" data-attachment-id=\"4218\"  alt=\"\" title=\"BANNER-PRIMAVERA-MOBILE-NAKED-LUNCH\" \/><\/a><\/div><figcaption hidden=\"\"><\/figcaption><\/figure><\/div><\/div><div class=\"vce-single-image-container vce-single-image--align-left\"><div class=\"vce vce-single-image-wrapper\" id=\"el-42d5c1f3\" data-vce-do-apply=\"all el-42d5c1f3\"><figure><div class=\"vce-single-image-figure-inner\" style=\"width: 1024px;\"><a href=\"https:\/\/nakedlunch.com.ar\/shop\/manzanilla-sedante-del-sistema-nervioso-100ml\/\" title=\"\" class=\"vce-single-image-inner vce-single-image--absolute\" style=\"width: 100%; padding-bottom: 100%;\"><img decoding=\"async\" loading=\"lazy\" class=\"vce-single-image\"  width=\"1024\" height=\"1024\" srcset=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-MANZANILLA-NAKED-LUNCH-1024x1024.jpeg 1024w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-MANZANILLA-NAKED-LUNCH-320x320.jpeg 320w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-MANZANILLA-NAKED-LUNCH-480x480.jpeg 480w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-MANZANILLA-NAKED-LUNCH-800x800.jpeg 800w\" src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-MANZANILLA-NAKED-LUNCH-1024x1024.jpeg\" data-img-src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-MANZANILLA-NAKED-LUNCH.jpeg\" data-attachment-id=\"4215\"  alt=\"\" title=\"BANNER-MANZANILLA-NAKED-LUNCH\" \/><\/a><\/div><figcaption hidden=\"\"><\/figcaption><\/figure><\/div><\/div><\/div><\/div><\/div><div class=\"vce-col vce-col--xs-100p vce-col--xs-visible vce-col--xs-last vce-col--xs-first vce-col--sm-100p vce-col--sm-visible vce-col--sm-last vce-col--sm-first vce-col--md-auto vce-col--md-visible vce-col--md-last vce-col--lg-auto vce-col--lg-visible vce-col--lg-last vce-col--xl-auto vce-col--xl-visible vce-col--xl-last\" id=\"el-ad85c405\"><div class=\"vce-col-inner\" data-vce-do-apply=\"border margin background  el-ad85c405\"><div class=\"vce-col-content\" data-vce-element-content=\"true\" data-vce-do-apply=\"padding el-ad85c405\"><div class=\"vce-single-image-container vce-single-image--align-left\"><div class=\"vce vce-single-image-wrapper\" id=\"el-c4a235c1\" data-vce-do-apply=\"all el-c4a235c1\"><figure><div class=\"vce-single-image-figure-inner\" style=\"width: 1024px;\"><a href=\"https:\/\/nakedlunch.com.ar\/shop\/suenos-lucidos\/\" title=\"\" class=\"vce-single-image-inner vce-single-image--absolute\" style=\"width: 100%; padding-bottom: 100%;\"><img decoding=\"async\" loading=\"lazy\" class=\"vce-single-image\"  width=\"1024\" height=\"1024\" srcset=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-SUENOS-LUCIDOS-NAKED-LUNCH-1024x1024.jpeg 1024w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-SUENOS-LUCIDOS-NAKED-LUNCH-320x320.jpeg 320w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-SUENOS-LUCIDOS-NAKED-LUNCH-480x480.jpeg 480w, https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-SUENOS-LUCIDOS-NAKED-LUNCH-800x800.jpeg 800w\" src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-SUENOS-LUCIDOS-NAKED-LUNCH-1024x1024.jpeg\" data-img-src=\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2022\/10\/BANNER-SUENOS-LUCIDOS-NAKED-LUNCH.jpeg\" data-attachment-id=\"4216\"  alt=\"\" title=\"BANNER-SUENOS-LUCIDOS-NAKED-LUNCH\" \/><\/a><\/div><figcaption hidden=\"\"><\/figcaption><\/figure><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div><div class=\"vce-row-container\" data-vce-boxed-width=\"true\"><div class=\"vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top\" id=\"el-b51229f1\" data-vce-do-apply=\"all el-b51229f1\"><div class=\"vce-row-content\" data-vce-element-content=\"true\"><div class=\"vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first\" id=\"el-6b5a01ae\"><div class=\"vce-col-inner\" data-vce-do-apply=\"border margin background  el-6b5a01ae\"><div class=\"vce-col-content\" data-vce-element-content=\"true\" data-vce-do-apply=\"padding el-6b5a01ae\"><div><\/div><\/div><\/div><\/div><\/div><\/div><\/div>",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "default",
-      "site-content-layout": "page-builder",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "default",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Naked Lunch - Sexy food en tu casa<\/title>\n<meta name=\"description\" content=\"Naked Lunch - Sexy food en tu casa\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Naked Lunch - Sexy food en tu casa\" \/>\n<meta property=\"og:description\" content=\"Naked Lunch - Sexy food en tu casa\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2022-10-12T12:55:54+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch - Sexy food en tu casa\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-06-23T15:44:39+00:00\",\"dateModified\":\"2022-10-12T12:55:54+00:00\",\"description\":\"Naked Lunch - Sexy food en tu casa\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Home\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Naked Lunch - Sexy food en tu casa",
-      "description": "Naked Lunch - Sexy food en tu casa",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Naked Lunch - Sexy food en tu casa",
-      "og_description": "Naked Lunch - Sexy food en tu casa",
-      "og_url": "https:\/\/nakedlunch.com.ar\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2022-10-12T12:55:54+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch - Sexy food en tu casa",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-06-23T15:44:39+00:00",
-            "dateModified": "2022-10-12T12:55:54+00:00",
-            "description": "Naked Lunch - Sexy food en tu casa",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Home"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/26"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=26"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 119,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/26\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 1782,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/26\/revisions\/1782"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=26"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 12,
-    "date": "2020-06-23T15:26:44",
-    "date_gmt": "2020-06-23T15:26:44",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/index.php\/my-account\/"
-    },
-    "modified": "2020-06-23T15:26:44",
-    "modified_gmt": "2020-06-23T15:26:44",
-    "slug": "my-account",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/my-account\/",
-    "title": {
-      "rendered": "My account"
-    },
-    "content": {
-      "rendered": "<div class=\"woocommerce\"><\/div>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "default",
-      "site-content-layout": "default",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>My account - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/my-account\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"My account - Naked Lunch\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/my-account\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/my-account\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/my-account\/\",\"name\":\"My account - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-06-23T15:26:44+00:00\",\"dateModified\":\"2020-06-23T15:26:44+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/my-account\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/my-account\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/my-account\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"My account\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "My account - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/my-account\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "My account - Naked Lunch",
-      "og_url": "https:\/\/nakedlunch.com.ar\/my-account\/",
-      "og_site_name": "Naked Lunch",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/my-account\/",
-            "url": "https:\/\/nakedlunch.com.ar\/my-account\/",
-            "name": "My account - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-06-23T15:26:44+00:00",
-            "dateModified": "2020-06-23T15:26:44+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/my-account\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/my-account\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/my-account\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "My account"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/12"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=12"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 0,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/12\/revisions"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=12"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "date": "2020-06-23T15:26:44",
-    "date_gmt": "2020-06-23T15:26:44",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/index.php\/checkout\/"
-    },
-    "modified": "2020-10-21T21:08:26",
-    "modified_gmt": "2020-10-21T21:08:26",
-    "slug": "checkout",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/checkout\/",
-    "title": {
-      "rendered": "Checkout"
-    },
-    "content": {
-      "rendered": "<div class=\"woocommerce\"><\/div>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "default",
-      "site-content-layout": "default",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "default",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Checkout - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/checkout\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Checkout - Naked Lunch\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/checkout\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2020-10-21T21:08:26+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/checkout\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/checkout\/\",\"name\":\"Checkout - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-06-23T15:26:44+00:00\",\"dateModified\":\"2020-10-21T21:08:26+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/checkout\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/checkout\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/checkout\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Checkout\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Checkout - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/checkout\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Checkout - Naked Lunch",
-      "og_url": "https:\/\/nakedlunch.com.ar\/checkout\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2020-10-21T21:08:26+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/checkout\/",
-            "url": "https:\/\/nakedlunch.com.ar\/checkout\/",
-            "name": "Checkout - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-06-23T15:26:44+00:00",
-            "dateModified": "2020-10-21T21:08:26+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/checkout\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/checkout\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/checkout\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Checkout"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/11"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=11"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 1,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/11\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 955,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/11\/revisions\/955"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=11"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 10,
-    "date": "2020-06-23T15:26:44",
-    "date_gmt": "2020-06-23T15:26:44",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/index.php\/cart\/"
-    },
-    "modified": "2020-10-21T23:00:57",
-    "modified_gmt": "2020-10-21T23:00:57",
-    "slug": "cart",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/cart\/",
-    "title": {
-      "rendered": "Cart"
-    },
-    "content": {
-      "rendered": "<p>[vc_row][vc_column][\/vc_column][\/vc_row][vc_row][vc_column][vc_btn title=&#8221;SEGUIR COMPRANDO&#8221; shape=&#8221;square&#8221; color=&#8221;black&#8221; align=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fnakedlunch.com.ar%2Findex.php%2Fshop|||&#8221;][vc_column_text]<!-- \/wp:shortcode -->[\/vc_column_text][\/vc_column][\/vc_row][vc_row][vc_column][\/vc_column][\/vc_row]<\/p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>[vc_row][vc_column][\/vc_column][\/vc_row][vc_row][vc_column][vc_btn title=&#8221;SEGUIR COMPRANDO&#8221; shape=&#8221;square&#8221; color=&#8221;black&#8221; align=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fnakedlunch.com.ar%2Findex.php%2Fshop|||&#8221;][vc_column_text][\/vc_column_text][\/vc_column][\/vc_row][vc_row][vc_column][\/vc_column][\/vc_row]<\/p>\n",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "default",
-      "site-content-layout": "default",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "default",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Cart - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/cart\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Cart - Naked Lunch\" \/>\n<meta property=\"og:description\" content=\"[vc_row][vc_column][\/vc_column][\/vc_row][vc_row][vc_column][vc_btn title=&#8221;SEGUIR COMPRANDO&#8221; shape=&#8221;square&#8221; color=&#8221;black&#8221; align=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fnakedlunch.com.ar%2Findex.php%2Fshop|||&#8221;][vc_column_text][\/vc_column_text][\/vc_column][\/vc_row][vc_row][vc_column][\/vc_column][\/vc_row]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/cart\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2020-10-21T23:00:57+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/cart\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/cart\/\",\"name\":\"Cart - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-06-23T15:26:44+00:00\",\"dateModified\":\"2020-10-21T23:00:57+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/cart\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/cart\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/cart\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Cart\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Cart - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/cart\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Cart - Naked Lunch",
-      "og_description": "[vc_row][vc_column][\/vc_column][\/vc_row][vc_row][vc_column][vc_btn title=&#8221;SEGUIR COMPRANDO&#8221; shape=&#8221;square&#8221; color=&#8221;black&#8221; align=&#8221;right&#8221; link=&#8221;url:https%3A%2F%2Fnakedlunch.com.ar%2Findex.php%2Fshop|||&#8221;][vc_column_text][\/vc_column_text][\/vc_column][\/vc_row][vc_row][vc_column][\/vc_column][\/vc_row]",
-      "og_url": "https:\/\/nakedlunch.com.ar\/cart\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2020-10-21T23:00:57+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/cart\/",
-            "url": "https:\/\/nakedlunch.com.ar\/cart\/",
-            "name": "Cart - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-06-23T15:26:44+00:00",
-            "dateModified": "2020-10-21T23:00:57+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/cart\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/cart\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/cart\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Cart"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/10"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=10"
-        }
-      ],
-      "version-history": [
-        {
-          "count": 6,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/10\/revisions"
-        }
-      ],
-      "predecessor-version": [
-        {
-          "id": 982,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/10\/revisions\/982"
-        }
-      ],
-      "wp:attachment": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=10"
-        }
-      ],
-      "curies": [
-        {
-          "name": "wp",
-          "href": "https:\/\/api.w.org\/{rel}",
-          "templated": true
-        }
-      ]
-    }
-  },
-  {
-    "id": 9,
-    "date": "2020-06-23T15:26:44",
-    "date_gmt": "2020-06-23T15:26:44",
-    "guid": {
-      "rendered": "https:\/\/nakedlunch.com.ar\/index.php\/shop\/"
-    },
-    "modified": "2020-10-02T18:03:34",
-    "modified_gmt": "2020-10-02T18:03:34",
-    "slug": "shop",
-    "status": "publish",
-    "type": "page",
-    "link": "https:\/\/nakedlunch.com.ar\/shop\/",
-    "title": {
-      "rendered": "Shop"
-    },
-    "content": {
-      "rendered": "",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 1,
-    "featured_media": 0,
-    "parent": 0,
-    "menu_order": 0,
-    "comment_status": "closed",
-    "ping_status": "closed",
-    "template": "",
-    "meta": {
-      "om_disable_all_campaigns": false,
-      "_mi_skip_tracking": false,
-      "site-sidebar-layout": "no-sidebar",
-      "site-content-layout": "plain-container",
-      "ast-global-header-display": "",
-      "ast-main-header-display": "",
-      "ast-hfb-above-header-display": "",
-      "ast-hfb-below-header-display": "",
-      "ast-hfb-mobile-header-display": "",
-      "site-post-title": "disabled",
-      "ast-breadcrumbs-content": "",
-      "ast-featured-img": "disabled",
-      "footer-sml-layout": "",
-      "theme-transparent-header-meta": "default",
-      "adv-header-id-meta": "",
-      "stick-header-meta": "",
-      "header-above-stick-meta": "",
-      "header-main-stick-meta": "",
-      "header-below-stick-meta": "",
-      "_joinchat": []
-    },
-    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Shop - Naked Lunch<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nakedlunch.com.ar\/shop\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Shop - Naked Lunch\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nakedlunch.com.ar\/shop\/\" \/>\n<meta property=\"og:site_name\" content=\"Naked Lunch\" \/>\n<meta property=\"article:modified_time\" content=\"2020-10-02T18:03:34+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nakedlunch.com.ar\/shop\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/shop\/\",\"name\":\"Shop - Naked Lunch\",\"isPartOf\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\"},\"datePublished\":\"2020-06-23T15:26:44+00:00\",\"dateModified\":\"2020-10-02T18:03:34+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/shop\/#breadcrumb\"},\"inLanguage\":\"es-AR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nakedlunch.com.ar\/shop\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nakedlunch.com.ar\/shop\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https:\/\/nakedlunch.com.ar\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Shop\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#website\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"name\":\"Naked Lunch\",\"description\":\"Sexy food en tu casa\",\"publisher\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nakedlunch.com.ar\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es-AR\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#organization\",\"name\":\"Naked Lunch\",\"url\":\"https:\/\/nakedlunch.com.ar\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es-AR\",\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"contentUrl\":\"https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg\",\"width\":500,\"height\":500,\"caption\":\"Naked Lunch\"},\"image\":{\"@id\":\"https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
-    "yoast_head_json": {
-      "title": "Shop - Naked Lunch",
-      "robots": {
-        "index": "index",
-        "follow": "follow",
-        "max-snippet": "max-snippet:-1",
-        "max-image-preview": "max-image-preview:large",
-        "max-video-preview": "max-video-preview:-1"
-      },
-      "canonical": "https:\/\/nakedlunch.com.ar\/shop\/",
-      "og_locale": "es_ES",
-      "og_type": "article",
-      "og_title": "Shop - Naked Lunch",
-      "og_url": "https:\/\/nakedlunch.com.ar\/shop\/",
-      "og_site_name": "Naked Lunch",
-      "article_modified_time": "2020-10-02T18:03:34+00:00",
-      "twitter_card": "summary_large_image",
-      "schema": {
-        "@context": "https:\/\/schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https:\/\/nakedlunch.com.ar\/shop\/",
-            "url": "https:\/\/nakedlunch.com.ar\/shop\/",
-            "name": "Shop - Naked Lunch",
-            "isPartOf": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#website"
-            },
-            "datePublished": "2020-06-23T15:26:44+00:00",
-            "dateModified": "2020-10-02T18:03:34+00:00",
-            "breadcrumb": {
-              "@id": "https:\/\/nakedlunch.com.ar\/shop\/#breadcrumb"
-            },
-            "inLanguage": "es-AR",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https:\/\/nakedlunch.com.ar\/shop\/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https:\/\/nakedlunch.com.ar\/shop\/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Inicio",
-                "item": "https:\/\/nakedlunch.com.ar\/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Shop"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https:\/\/nakedlunch.com.ar\/#website",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "name": "Naked Lunch",
-            "description": "Sexy food en tu casa",
-            "publisher": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#organization"
-            },
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https:\/\/nakedlunch.com.ar\/?s={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-              }
-            ],
-            "inLanguage": "es-AR"
-          },
-          {
-            "@type": "Organization",
-            "@id": "https:\/\/nakedlunch.com.ar\/#organization",
-            "name": "Naked Lunch",
-            "url": "https:\/\/nakedlunch.com.ar\/",
-            "logo": {
-              "@type": "ImageObject",
-              "inLanguage": "es-AR",
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/",
-              "url": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "contentUrl": "https:\/\/nakedlunch.com.ar\/wp-content\/uploads\/2020\/06\/logonl-5.jpg",
-              "width": 500,
-              "height": 500,
-              "caption": "Naked Lunch"
-            },
-            "image": {
-              "@id": "https:\/\/nakedlunch.com.ar\/#\/schema\/logo\/image\/"
-            },
-            "sameAs": [
-              "https:\/\/www.instagram.com\/nakedlunch_ba\/?hl=en"
-            ]
-          }
-        ]
-      }
-    },
-    "_links": {
-      "self": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/9"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages"
-        }
-      ],
-      "about": [
-        {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/types\/page"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/users\/1"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/comments?post=9"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/comments?post=1086"
         }
       ],
       "version-history": [
         {
           "count": 3,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/9\/revisions"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/posts\/1086\/revisions"
         }
       ],
       "predecessor-version": [
         {
-          "id": 156,
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/pages\/9\/revisions\/156"
+          "id": 1149,
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/posts\/1086\/revisions\/1149"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/media\/1148"
         }
       ],
       "wp:attachment": [
         {
-          "href": "https:\/\/nakedlunch.com.ar\/wp-json\/wp\/v2\/media?parent=9"
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/media?parent=1086"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/categories?post=1086"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/tags?post=1086"
         }
       ],
       "curies": [
@@ -2136,6 +106,178 @@
           "href": "https:\/\/api.w.org\/{rel}",
           "templated": true
         }
+      ]
+    },
+    "_embedded": {
+      "author": [
+        {
+          "id": 1,
+          "name": "demo.webwish",
+          "url": "http:\/\/demo.webwish.com.ar",
+          "description": "",
+          "link": "https:\/\/demo.webwish.com.ar\/author\/demo-webwish\/",
+          "slug": "demo-webwish",
+          "avatar_urls": {
+            "24": "https:\/\/secure.gravatar.com\/avatar\/aefb149641fb5564d64c32db981613c7?s=24&d=mm&r=g",
+            "48": "https:\/\/secure.gravatar.com\/avatar\/aefb149641fb5564d64c32db981613c7?s=48&d=mm&r=g",
+            "96": "https:\/\/secure.gravatar.com\/avatar\/aefb149641fb5564d64c32db981613c7?s=96&d=mm&r=g"
+          },
+          "_links": {
+            "self": [
+              {
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/users\/1"
+              }
+            ],
+            "collection": [
+              {
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/users"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "id": 1148,
+          "date": "2023-01-20T15:46:21",
+          "slug": "image-2",
+          "type": "attachment",
+          "link": "https:\/\/demo.webwish.com.ar\/2021\/08\/13\/articulo-2\/image-2\/",
+          "title": {
+            "rendered": "image"
+          },
+          "author": 1,
+          "caption": {
+            "rendered": ""
+          },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image\/png",
+          "media_details": {
+            "width": 800,
+            "height": 450,
+            "file": "2023\/01\/image.png",
+            "filesize": 508891,
+            "sizes": {
+              "medium": {
+                "file": "image-300x169.png",
+                "width": 300,
+                "height": 169,
+                "filesize": 79762,
+                "mime_type": "image\/png",
+                "source_url": "https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image-300x169.png"
+              },
+              "thumbnail": {
+                "file": "image-150x150.png",
+                "width": 150,
+                "height": 150,
+                "filesize": 35992,
+                "mime_type": "image\/png",
+                "source_url": "https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image-150x150.png"
+              },
+              "medium_large": {
+                "file": "image-768x432.png",
+                "width": 768,
+                "height": 432,
+                "filesize": 397188,
+                "mime_type": "image\/png",
+                "source_url": "https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image-768x432.png"
+              },
+              "full": {
+                "file": "image.png",
+                "width": 800,
+                "height": 450,
+                "mime_type": "image\/png",
+                "source_url": "https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image.png"
+              }
+            },
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "https:\/\/demo.webwish.com.ar\/wp-content\/uploads\/2023\/01\/image.png",
+          "_links": {
+            "self": [
+              {
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/media\/1148"
+              }
+            ],
+            "collection": [
+              {
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/media"
+              }
+            ],
+            "about": [
+              {
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/types\/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/users\/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/comments?post=1148"
+              }
+            ]
+          }
+        }
+      ],
+      "wp:term": [
+        [
+          {
+            "id": 1,
+            "link": "https:\/\/demo.webwish.com.ar\/category\/sin-categoria\/",
+            "name": "Sin categor\u00eda",
+            "slug": "sin-categoria",
+            "taxonomy": "category",
+            "_links": {
+              "self": [
+                {
+                  "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/categories\/1"
+                }
+              ],
+              "collection": [
+                {
+                  "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/categories"
+                }
+              ],
+              "about": [
+                {
+                  "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/taxonomies\/category"
+                }
+              ],
+              "wp:post_type": [
+                {
+                  "href": "https:\/\/demo.webwish.com.ar\/wp-json\/wp\/v2\/posts?categories=1"
+                }
+              ],
+              "curies": [
+                {
+                  "name": "wp",
+                  "href": "https:\/\/api.w.org\/{rel}",
+                  "templated": true
+                }
+              ]
+            }
+          }
+        ],
+        []
       ]
     }
   }

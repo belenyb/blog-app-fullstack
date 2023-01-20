@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:naked/posts/posts_provider.dart';
 import 'package:provider/provider.dart';
 
+import 'my_theme.dart';
+import 'posts/post_detail_screen.dart';
 import 'posts/posts_screen.dart';
 
 void main() => runApp(const MyApp());
@@ -17,7 +19,12 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         title: 'Material App',
-        home: SafeArea(child: PostsScreen()),
+        theme: myTheme(),
+        routes: {
+          PostsScreen.routeName: (context) => const PostsScreen(),
+          PostDetailScreen.routeName: (context) => const PostDetailScreen(),
+        },
+        initialRoute: PostsScreen.routeName,
       ),
     );
   }

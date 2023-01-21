@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:naked/posts/posts_provider.dart';
 import 'package:provider/provider.dart';
 
+import 'layout.dart';
 import 'my_theme.dart';
 import 'posts/post_detail_screen.dart';
 import 'posts/posts_screen.dart';
@@ -23,8 +24,9 @@ class MyApp extends StatelessWidget {
         routes: {
           PostsScreen.routeName: (context) => const PostsScreen(),
           PostDetailScreen.routeName: (context) => const PostDetailScreen(),
+          Layout.routeName: (context) => const Layout(),
         },
-        initialRoute: PostsScreen.routeName,
+        initialRoute: Layout.routeName,
       ),
     );
   }
